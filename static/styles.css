@@ -1,0 +1,59 @@
+body {
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #232323;
+    background-color: #fff;
+    margin: 5px;
+    line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+h1,h2, h3 {
+    display: block;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+a {
+    text-decoration:none;
+}
+
+h1 a {
+    color: black;
+}
+
+ul {
+    list-style: inside;
+    padding-left: 25px;
+}
+
+ol {
+    list-style: decimal inside;
+    padding-left: 20px;
+}
+
+pre {
+    overflow: auto;
+    padding: 5px;
+}
+
+.content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
